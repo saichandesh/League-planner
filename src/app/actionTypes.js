@@ -1,2 +1,2 @@
 // Applicant list action Type
-export const APPLICANT_LIST = 'APPLICANT_LIST';
+export const LOG_IN = 'LOG_IN';

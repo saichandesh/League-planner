@@ -1,3 +1,7 @@
 import { combineReducers } from 'redux';
 
-export default combineReducers({});
+import { reducer as auth } from '../Pages/Home';
+
+export default combineReducers({
+    auth
+});
